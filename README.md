@@ -8,8 +8,6 @@ Team Members: Tanner Waford, Saketh Sangaraju, Sraddha Patri, Huy Truong, Adam M
 
 Group Number: 10
 
-Project Description: 
-
 A two-way POS (Point of Service) application to be used by the students, dining services staff, and university administation of the University of Louisville, to improve the dining experience.
 Students will be able to purchase menu items and get recommendations from a generative AI chatbot (keeping in mind dietary restrictions, pricing, etc.).
 Dining services are able to leverage the software to keep track of transactional information in a database for more efficient order processing.
