@@ -2,7 +2,6 @@
 CSE 350 Project: Cardinal Restaurant
 ![Cardinal Bird](images/Cardinal.jpg)
 
-INCLUDE NAMES
-GROUP NUMBER
+Group 10: Tanner Waford, Saketh Sangaraju, Huy Truong, Sraddha Patri, Adam McCabe
 SESSION 
-A BRIEF DESCRIPTION OF PROJECT
+DESCRIPTION OF PROJECT
