@@ -1,0 +1,131 @@
+﻿item,restaurant,food/drink,category,price
+thai chicken bowl,Freshens,food,rice bowl,7.79
+mexican bowl,Freshens,food,rice bowl,7.79
+frito grande bowl,Freshens,food,rice bowl,7.79
+buffalo bowl,Freshens,food,rice bowl,7.79
+kc bbq bowl,Freshens,food,rice bowl,7.79
+power protein bowl,Freshens,food,rice bowl,7.79
+baja queso bowl,Freshens,food,rice bowl,7.79
+meatless mexican bowl,Freshens,food,rice bowl,7.79
+wild strawberry smoothie,Freshens,drink,smoothie,4.79
+caribbean craze smoothie,Freshens,drink,smoothie,4.79
+maui mango smoothie,Freshens,drink,smoothie,4.79
+tropical therapy smoothie,Freshens,drink,smoothie,4.79
+mango me crazy smoothie,Freshens,drink,smoothie,4.79
+bangin' berry smoothie,Freshens,drink,smoothie,4.79
+acai energy smoothie,Freshens,drink,smoothie,4.79
+orange sunrise smoothie,Freshens,drink,smoothie,4.79
+peach on the beach smoothie,Freshens,drink,smoothie,4.79
+banana berry smoothie,Freshens,drink,smoothie,4.79
+goin' green smoothie,Freshens,drink,smoothie,4.89
+super c immune support smoothie,Freshens,drink,smoothie,4.89
+berry burn smoothie,Freshens,drink,smoothie,4.89
+super fuel smoothie,Freshens,drink,smoothie,4.89
+pb protein smoothie,Freshens,drink,smoothie,4.89
+acai banana berry,Freshens,food,acai bowl,7.89
+acai peanut butter,Freshens,food,acai bowl,7.89
+chipotle chicken club flatbread,Freshens,food,flatbread,7.49
+bbq bacon chicken flatbread,Freshens,food,flatbread,7.49
+nashville hot chicken flatbread,Freshens,food,flatbread,7.49
+pesto chicken flatbread,Freshens,food,flatbread,7.49
+santa fe flatbread,Freshens,food,flatbread,7.49
+roadhouse bbq chicken salad,Freshens,food,salad,8.49
+strawberry and kale salad,Freshens,food,salad,8.49
+chicken avocado cobb salad,Freshens,food,salad,8.49
+buffalo chicken salad,Freshens,food,salad,8.49
+chicken caesar salad,Freshens,food,salad,8.49
+sw chiptole chicken salad,Freshens,food,salad,8.49
+chicken bacon ranch crunchadilla,Freshens,food,crunchadilla,7.49
+the cowboy crunchadilla,Freshens,food,crunchadilla,7.49
+on the border crunchadilla,Freshens,food,crunchadilla,7.49
+supreme crunchadilla,Freshens,food,crunchadilla,7.49
+chicken avocado crunchadilla,Freshens,food,crunchadilla,7.49
+bbq bacon and cheddar mac and cheese,Freshens,food,mac and cheese,7.59
+buffalo chicken mac and cheese,Freshens,food,mac and cheese,7.59
+four cheese mac and cheese,Freshens,food,mac and cheese,7.59
+southwest mac and cheese,Freshens,food,mac and cheese,7.59
+Chic-fil-a Nuggets,Chick-fil-a,Food,Entrée,5.39
+Chic-fil-a Chicken Sandwich,Chick-fil-a,Food,Entrée,5.29
+Chic-fil-a Deluxe Sandwich,Chick-fil-a,Food,Entrée,5.99
+Spicy Chicken Sandwich,Chick-fil-a,Food,Entrée,5.59
+Spicy Chciken Deluxe Sandwich,Chick-fil-a,Food,Entrée,6.29
+Grilled Chicken Sandwich,Chick-fil-a,Food,Entrée,6.95
+Grilled Chicken Club Sandwich,Chick-fil-a,Food,Entrée,8.85
+Girlled Niggets,Chick-fil-a,Food,Entrée,6.19
+Grilled Cool Wrap,Chick-fil-a,Food,Entrée,8.49
+Cobb Salad,Chick-fil-a,Food,Entrée,9.89
+Spicy Southwest Salad,Chick-fil-a,Food,Entrée,10.09
+Market Salad,Chick-fil-a,Food,Side,10.09
+Waffle Potato Fries,Chick-fil-a,Food,Side,2.65
+Waffle Potato Chips,Chick-fil-a,Food,Side,2.19
+Side Saladd,Chick-fil-a,Food,Side,4.39
+Greek Yogurt Parfait with Harvest Nut Granola,Chick-fil-a,Food,Side,4.99
+Greek Yogurt Parfait with Chocolate Cookie,Chick-fil-a,Food,Side,4.99
+Fruit Cup,Chick-fil-a,Food,Side,4.29
+Mac and Cheese,Chick-fil-a,Food,Side,4.29
+Cheese Sauce,Chick-fil-a,Food,Side,4.29
+Chocolate Milkshake,Chick-fil-a,Drink,Drink,4.85
+Vanilla Milkshake,Chick-fil-a,Drink,Drink,4.85
+Strawberry Milkshake,Chick-fil-a,Drink,Drink,4.85
+Cookies and Cream Milkshake,Chick-fil-a,Drink,Drink,4.85
+Icedream Cup,Chick-fil-a,Drink,Drink,1.89
+Frosted Lemonade,Chick-fil-a,Drink,Drink,4.75
+Diet Frosted Lemonade,Chick-fil-a,Drink,Drink,4.75
+Frosted Coffee,Chick-fil-a,Drink,Drink,4.75
+Peppermint Milkshake,Chick-fil-a,Drink,Drink,5.35
+Lemonade,Chick-fil-a,Drink,Drink,2.79
+Unsweetened Tea,Chick-fil-a,Drink,Drink,2.45
+Sunjoy,Chick-fil-a,Drink,Drink,2.79
+Soft Drink,Chick-fil-a,Drink,Drink,2.45
+Bottled Water,Chick-fil-a,Drink,Drink,2.39
+Dave's Single,Wendy's,food,Entrée,4.89
+French Fries (Medium),Wendy's,food,Side,2.19
+Apple Pecan Salad,Wendy's,food,Side,6.79
+Baconator,Wendy's,food,Entrée,8.29
+Spicy Chicken Sandwich,Wendy's,food,Entrée,5.49
+Frosty (Small),Wendy's,drink,Drink,2.19
+Cheesy Cheddar Bacon Fries,Wendy's,food,Side,3.79
+Chili (Small),Wendy's,food,Soup,3.79
+Chili (Large),Wendy's,food,Soup,4.99
+Southwest Avocado Chicken Salad,Wendy's,food,Side,6.79
+Grilled Chicken Wrap,Wendy's,food,Entrée,1.99
+Classic Chicken Wrap,Wendy's,food,Entrée,1.99
+Crispy Chicken Wrap,Wendy's,food,Entrée,1.99
+Crispy Chicken Sandwich,Wendy's,food,Entrée,3.99
+Chicken Nuggets (4 pc),Wendy's,food,Entrée,4.49
+Chicken Nuggets (6 pc),Wendy's,food,Entrée,5.49
+Chicken Nuggets (10 pc),Wendy's,food,Entrée,7.79
+Fish Sandwich,Wendy's,food,Entrée,3.79
+Garden Side Salad,Wendy's,food,Side,2.29
+Caesar Side Salad,Wendy's,food,Side,2.29
+Panko-Breaded Chicken Tenders (4 pc),Wendy's,food,Entrée,5.19
+Panko-Breaded Chicken Tenders (6 pc),Wendy's,food,Entrée,5.79
+Bacon Double Stack,Wendy's,food,Entrée,6.99
+Double Stack,Wendy's,food,Entrée,3.79
+Classic Chicken Sandwich,Wendy's,food,Entrée,6.59
+Spicy Chicken Caesar Salad,Wendy's,food,Side,4.79
+Caesar Side Salad,Wendy's,food,Side,4.19
+Bacon Double Stack,Wendy's,food,Entrée,4.49
+Double Stack,Wendy's,food,Entrée,5.49
+Classic Chicken Sandwich,Wendy's,food,Entrée,5.49
+Spicy Chicken Caesar Salad,Wendy's,food,Entrée,6.49
+Caesar Side Salad,Wendy's,food,Side,4.59
+Bacon Double Stack,Wendy's,food,Entrée,4.99
+Double Stack,Wendy's,food,Entrée,4.99
+Orange Chicken,Panda Express,Food ,Entrée,6.1
+String Bean Chicken Breast,Panda Express,Food,Entrée,6.1
+Kung Pao Chicken,Panda Express,Food,Entrée,6.1
+Mushroom Chicken,Panda Express,Food,Entrée,6.1
+Beijing Beef,Panda Express,Food,Entrée,6.1
+Broccoli Beef,Panda Express,Food,Entrée,6.1
+Shanghai Angus Steak,Panda Express,Food,Entrée,6.1
+Honey Walnut Shrimp,Panda Express,Food,Entrée,6.1
+Grilled Teriyaki Chicken,Panda Express,Food,Entrée,6.1
+SweetFire Chicken Breast,Panda Express,Food,Entrée,6.1
+Black Pepper Chicken,Panda Express,Food,Entrée,6.1
+Fried Rice,Panda Express,Food,Side,3.55
+White Rice,Panda Express,Food,Side,3.55
+Brown Rice,Panda Express,Food,Side,3.55
+Chicken Egg Roll,Panda Express,Food,Appetizers,2
+Veggie Spring Roll,Panda Express,Food,Appetizers,2
+Cream Cheese Ragoon,Panda Express,Food,Appetizers,2
